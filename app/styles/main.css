@@ -93,6 +93,7 @@ ul {
   width: 100%;
   padding: 0;
   margin: 0;
+  font-size: 18px;
 }
 
 .nav__item {
@@ -100,7 +101,7 @@ ul {
   display: inline-block;
   width: 24%;
   text-align: center;
-  line-height: 24px;
+  line-height: 48px;
   padding: 24px;
   text-transform: uppercase;
 }
@@ -146,7 +147,7 @@ main {
   float: left;
   width: 100%;
   position: relative;
-  background-image: url("./images/dog.jpg");
+  background-image: url("../images/dog.jpg");
   background-size: cover;
   height: 300px;
 }
