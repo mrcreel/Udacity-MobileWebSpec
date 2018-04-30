@@ -181,7 +181,6 @@ main {
  */
 
 .top-news {
-  height: 300px;
   border-bottom: 1px solid #E0E0E0;
   padding: 1em;
 }
@@ -257,6 +256,7 @@ main {
   font-weight: bold;
 }
 
+/*
 .scores__table td:nth-child(3) {
   text-align: right;
 }
@@ -265,6 +265,7 @@ main {
 .scores__table td:nth-child(5) {
   text-align: center;
 }
+*/
 
 /*
  *
@@ -441,6 +442,7 @@ footer a {
   .snippet:last-of-type {
     margin-right: 0;
   }
+}
   @media only screen and (min-width: 850px) {
     body {
       background-color: palevioletred;
@@ -452,4 +454,3 @@ footer a {
       background-color: palevioletred;
     }
   }
-}
